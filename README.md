@@ -1,12 +1,7 @@
 <div align="left">
-  <a href="https://twitter.com/webfazliddin">
-    <img align="left" alt="Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-  </a>
+
   <a href="https://www.linkedin.com/in/webfazliddin/">
     <img align="left" alt="Linkdein" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-  <a href="https://www.facebook.com/webfazliddin">
-    <img align="left" alt="Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a>
   <a href="https://t.me/webfazliddin">
     <img align="left" alt="Telegram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
