@@ -1,4 +1,4 @@
-[![https://github.com/webfazliddin](https://raw.githubusercontent.com/webfazliddin/webfazliddin/4f08510a31f425e6dbff6fbaaa6a26df8fce505b/undraw_welcome_cats_thqn.svg)](https://github.com/webfazliddin)
+[![https://github.com/webfazliddin](https://raw.githubusercontent.com/webfazliddin/webfazliddin/4f08510a31f425e6dbff6fbaaa6a26df8fce505b/undraw_welcome_cats_thqn.svg)]
 
 <div align="left">
 
