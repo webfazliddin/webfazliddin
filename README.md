@@ -28,7 +28,7 @@
 ### 📌 About me
 
 <p>
-⭐ 100% Work for result     🏆 0+ Year experience
+⭐ 100% Work for result     🏆 1+ Year experience
 </p>
 
 <p>
